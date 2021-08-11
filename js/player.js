@@ -6,7 +6,7 @@
 
 const audioPlayer = document.querySelector(".audio-player");
 const audio = new Audio(
-  '../media/Excision & Downlink - Robo Kitty.mp3'
+  './media/Excision & Downlink - Robo Kitty.mp3'
 );
 //credit for song: Adrian kreativaweb@gmail.com
 
